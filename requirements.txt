@@ -1,0 +1,4 @@
+configparser==5.2.0
+pypresence==4.2.1
+yandex-music==2.0.1
+
