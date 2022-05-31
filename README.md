@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Также есть EXE версия скрипта, рядом с EXE'шником должен лежать config.ini, EXE запускается в фоне.
+Также есть [EXE](https://github.com/tecke1/YandexMusicRPC/releases/tag/YandexMusicRPC) версия скрипта, рядом с EXE'шником должен лежать config.ini, EXE запускается в фоне.
 
 
 
