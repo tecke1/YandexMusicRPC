@@ -1,5 +1,7 @@
 # YandexMusicRPC
-Скрипт на Python для отображения статуса из Яндекс.Музыки в профиле Discord
+![image](https://user-images.githubusercontent.com/39594409/171289165-e088ae61-1ae9-4d25-bf52-2093d5e0e08a.png)
+
+**Скрипт на Python для отображения статуса из Яндекс.Музыки в профиле Discord**
 
 ## Установка
 
@@ -10,6 +12,9 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+## Получение токена
+[**Инструкция**](https://github.com/MarshalX/yandex-music-api/discussions/513#discussioncomment-2729781)
 
 ## Запуск
 ```sh
